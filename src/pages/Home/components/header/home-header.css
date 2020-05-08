@@ -1,0 +1,47 @@
+.HomeHeader {
+  display: flex;
+  background-color: #ff5555;
+  color: #fff;
+  text-align: center;
+  height: 1.2rem;
+  padding-top: 0.25rem;
+  box-sizing: border-box;
+  /* .search{
+    flex: 7;
+    height: 0.38*2rem;
+    line-height: 0.38*2rem;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 4px;
+    i{
+      font-size: 16px;
+      width: 10%;
+      color: #999;
+    }
+    input{
+      padding-left: 0.15rem;
+      width: 90%;
+      border: none;
+      outline: none;
+    }
+  } */
+}
+.HomeHeader .city {
+  flex: 2;
+  height: 0.76rem;
+  line-height: 0.76rem;
+}
+.HomeHeader .city .link {
+  color: #fff;
+}
+.HomeHeader .search {
+  flex: 7;
+}
+.HomeHeader .pinglun {
+  flex: 1;
+  height: 0.76rem;
+  line-height: 0.76rem;
+}
+.HomeHeader .pinglun i {
+  font-size: 18px;
+}

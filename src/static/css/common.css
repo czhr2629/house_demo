@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+}
+body * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "微软雅黑", "Times New Roman", Georgia, Serif;
+  font-size: 16px;
+}
+input {
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+/* a:-webkit-any-link{
+color: -webkit-activelink;
+
+} */
+.float-left {
+  float: left;
+}
+.float-right {
+  float: right;
+}
+.clear-fix:after {
+  display: table;
+  content: '';
+  clear: both;
+}

@@ -1,0 +1,35 @@
+.detail-box {
+  padding: 0 0.5rem 0.3rem;
+}
+.hours-info {
+  margin: 0.3rem 0;
+  padding: 0.1rem;
+  border: 1px solid #eee;
+  display: flex;
+  text-align: center;
+}
+.hours-info div {
+  font-size: 14px;
+  color: red;
+  float: left;
+  flex: 1;
+}
+.hours-info p {
+  font-size: 14px;
+  color: #333;
+}
+.hours-desc {
+  overflow: hidden;
+  margin-bottom: 0.3rem;
+}
+.hours-desc div {
+  padding: 0.1rem;
+  font-size: 12px;
+  float: left;
+  width: 50%;
+}
+.btn button {
+  width: 50%;
+  background-color: red;
+  padding: 0.1rem;
+}

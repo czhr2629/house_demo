@@ -1,0 +1,27 @@
+.content {
+  padding: 0.2rem;
+  border-bottom: 1px solid #eee;
+}
+.user {
+  text-align: center;
+}
+.title {
+  padding: 0.2rem;
+}
+.star img {
+  width: 15px;
+  height: 15px;
+}
+.pinglun {
+  font-size: 14px;
+  color: #999;
+  padding-top: 0.2rem;
+}
+.bottom {
+  padding: 0.2rem;
+  border-bottom: 1px solid #ccc;
+}
+.bottom i {
+  font-size: 14px;
+  padding-right: 0.2rem;
+}
